@@ -1,0 +1,4 @@
+1. Mencoba latihan GIT DTS 2020
+2. Membuat akun github
+3. Mengetahui command dasar GIT
+4. Integrasi GIT
